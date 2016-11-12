@@ -9,9 +9,8 @@ W skrócie: wrzucam linki do ciekawych stron, które napotkam na swojej drodze. 
 Tematyka: 
 
  - programowanie
- - reverse engineering
- - linux
- - i wszystko inne co związane z szeroko pojętym hackingiem
+ - security
+ - oraz wszystko inne co związane z szeroko pojętym hackingiem
 
 
 ----------
