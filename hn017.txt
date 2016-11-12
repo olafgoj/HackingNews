@@ -1,0 +1,42 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Strona w stylu SPOJ, Euler, itd., czyli mamy do rozwiązania problemy programistyczne.
+https://leetcode.com/
+
+2. Ciekawy artykuł o historii złącza VGA.
+http://hackaday.com/2016/01/29/vga-in-memoriam/
+
+3. Tak, było o tym głośno na wykopie i tak, cel finansowy został już osiągniety, ale bardzo podoba mi się robota @JavaDevMatt więc przypominam że nadal można jeszcze dołączyć się do zbiórki. :)
+https://polakpotrafi.pl/projekt/junior-developer
+
+4. Blog z zadaniami z SQL.
+http://sql-exercises.edu.pl/
+
+5. Raport dotyczący botnetów w Polsce w 2015r.
+http://www.cert.pl/news/11101
+
+6. Jak zabezpieczyć Androida?
+https://the-parallax.com/2016/03/11/how-to-fbi-proof-your-android/
+
+7. Jest kolejny odcinek podcastu "Cyber, Cyber". Tym razem o ransomware.
+https://zaufanatrzeciastrona.pl/post/cyber-cyber-czesc-12-polski-ransomware/
+
+8. Pamiętacie The Fappening? Okazało się, że atakujący zdobył zdjęcia używając socjotechniki.
+https://thehackernews.com/2016/03/fappening-pics.html
+
+9. Bardzo ciekawy wywiad na temat testów penetracyjnych, polecam. :)
+https://niebezpiecznik.pl/post/wypowiedz-dla-gazety-dot-testow-penetracyjnych/
+
+10. Na koniec muzyka do programowania. LENNYFACE
+http://musicforprogramming.net/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

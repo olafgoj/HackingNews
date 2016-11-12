@@ -1,0 +1,36 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Badlock - podatność w Windows i Samba. 
+https://thehackernews.com/2016/03/windows-samba-vulnerability.html
+
+2. Czym jest fuzzing?
+http://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/
+
+3. Krótka audycja o pentesterach.
+http://audycje.tokfm.pl/odcinek/Kim-sa-pentesterzy-O-legalnych-hakerach-opowiada-Jakub-Wator/35425
+
+4. Trzy różne spojrzenia na temat uczenia się.
+http://oskar-at-net.blogspot.com/2016/01/nauka-uczenia-sie.html
+http://blog.kokosa.net/post/jak-sie-rozwijac
+http://jaroslawstadnicki.pl/2016/02/podcasts/
+
+5. 10 narzędzi do Javy używanych przez programistów z livecoding.tv.
+http://blog.livecoding.tv/2016/03/21/the-ten-10-best-java-productivity-tools-plugins-and-libraries/
+
+6. Już jutro masa promocja na ebookpoint - w tym również na ebooki informatyczne. :)
+http://krzysztofjelonek.net/aktualne-promocje/
+
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

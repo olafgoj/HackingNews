@@ -1,0 +1,35 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Policzcie sobie na windowsowym kalkulatorze sqrt(4)-2. :)
+https://blogs.msdn.microsoft.com/oldnewthing/20160628-00/?p=93765
+
+2. Uważam że warto przypomnieć o 10 radach nt. bezpieczeństwa od @niebezpiecznik. :)
+https://docs.google.com/document/d/1iiKYZJWGihNculKbEyA5agI-32EjaYuEvcTy-XTu23Y/edit?pref=2&pli=1#heading=h.5xfv5635hs4d
+
+3. Garść informacji o mikroserwisach.
+http://microservices.io/index.html
+
+4. Przykład pastejackingu
+http://uw-team.org/sm/schowek.html
+
+5. Case study z pisania zadania na CTF.
+https://zaufanatrzeciastrona.pl/post/jak-napisac-ciekawe-crackme-na-ctf-instrukcja-krok-po-kroku/
+
+6. Wzorce projektowe.
+http://www.oodesign.com/
+
+7. CTF365 - platforma do ćwiczenia umiejętności związanych z cybersec.
+https://ctf365.com
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

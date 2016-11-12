@@ -1,0 +1,44 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Hashcat jest teraz open-source.
+http://fossbytes.com/worlds-fastest-password-cracking-tool-is-now-open-source/
+
+2. Ściągawka z SQL Injection.
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
+3. Mario + wstrzyknięcie kodu Flappy Bird = Flappy Mario
+https://www.youtube.com/watch?v=hB6eY73sLV0
+
+4. 7 algorytmów i struktur danych, które powinien znać każdy programista.
+http://codingsec.net/2016/03/7-algorithms-data-structures-every-programmer/
+
+5. Nowości w Githubowej paczce dla studentów, np. od teraz można dostać darmowy dostęp do wybranego kursu Udacity Nanodeegre (wart $200).
+https://education.github.com/pack
+
+6. 16-latek znalazł lukę w Steamie, która pozwalała umieścić na platformie dowolną grę lub dowolną inną - również złośliwą - aplikację.
+http://www.techworm.net/2016/03/16-year-old-hacker-releases-silly-game-hacking-steam.html
+
+7. Wiele przydatnych informacji nt. obrony przed ransomware.
+https://bartblaze.blogspot.com/p/ransomware-prevention.html
+
+8. Snowden, Greenwald i Chomsky o prywatności - prawie 2h materiału ze spotkania.
+https://theintercept.com/2016/03/30/edward-snowden-noam-chomsky-glenn-greenwald-a-conversation-on-privacy/
+
+9. Dokładna analiza ransomware Petya.
+https://blog.malwarebytes.org/threat-analysis/2016/04/petya-ransomware/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Śmieszny obrazek na dziś:
+
+Już wiadomo jak FBI odblokowało iPhone'a. LENNYFACE
+
+http://x3.cdn03.imgwykop.pl/c3201142/comment_dL3Vg2bdbQF0kwu3eI1uOLenlUVQP6J2,w400.jpg

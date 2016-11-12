@@ -1,0 +1,27 @@
+#hackingnews
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+Zbiór ciekawych linków z 2015r., dotyczących programowania. 
+http://blog.fogus.me/2015/12/29/the-best-things-and-stuff-of-2015/
+
+Taki YouTube, tyle że z filmami nt. security. 
+http://www.securitytube.net
+
+Jak ktoś chce się legalnie pobawić w hacking i poćwiczyć #linux oraz #bash to polecam tę stronę. W skrócie gra polega na tym, że logujemy się na serwer ssh i musimy na różne sposoby wydobywać hasła do kolejnych poziomów (np. deszyfrując pliki, pisząc różne skrypty w bashu, itd.).  
+http://overthewire.org/wargames/
+
+Ostatnio było o Damn Vulnerable Linux, teraz czas na Damn Vulnerable Node Application - webaplikację napisaną w Node.js, która posiada mnóstwo podatności i błędów i służy do nauki pisania bezpiecznego kodu w Node.js oraz ogólnie do poszerzania wiedzy nt. dziur w aplikacjach internetowych. 
+https://github.com/quantumfoam/DVNA/ 
+
+Wiki z materiałami z dziedziny pentestingu. 
+http://www.pentest-standard.org/index.php/Main_Page 
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+
+

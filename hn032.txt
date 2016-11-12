@@ -1,0 +1,31 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+—————————————————————————
+
+1. Kolejne hackme na horyzoncie. :)
+http://whitehat.eu.org/
+
+2. Najważniejsze wydarzenia ze świata security ułożone chronologicznie.
+http://quietlydreaming.wumpy.xyz/qd.txt
+
+3. Lista materiałów na temat TDD posegregowana wg stopnia zaawansowania.
+http://mfranc.com/unit-testing/tdd-unit-testing-big-list-of-learning-resources-from-basics-to-advanced-topics/
+
+4. Na YT pojawiły się prezentacje z tegorocznej edycji Programistok, w tym
+wystąpienie @gynvael.
+https://www.youtube.com/watch?v=hcp9ymfbofs&list=PLtuSyiEUcgekihGoLLxyqsczJ4bGrOBV5&index=4
+
+5. Formaty plików od podszewki w formie graficznej. 
+https://github.com/corkami/pics/blob/master/README.md
+
+6. Spis treści oraz informacje na temat nadchodzącej książki o inżynierii wstecznej.
+http://gynvael.coldwind.pl/?id=630
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

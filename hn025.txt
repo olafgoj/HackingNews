@@ -1,0 +1,38 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Analiza haseł, które wyciekły ostatnio z LinkedIn.
+https://blog.korelogic.com/blog/2016/05/19/linkedin_passwords_2016
+
+2. Na poniższej stronie znajdziecie wiele ciekawych artykułów nt. różnych zagadnień związanych z programowaniem. Brzmi może nieciekawie i ogólnikowo, ale zapewniam że warto zajrzeć. :)
+http://ithare.com/
+
+3. Snowden ostrzega przed komunikatorem od Google.
+https://www.hackread.com/edward-snowden-google-messaging-app-allo/
+
+4. Co mają ze sobą wspólnego Starbucks i programowanie asynchroniczne?
+https://edgecoders.com/asynchronous-programming-as-seen-at-starbucks-fc242cf16aa?gi=7f097f212232#.64icqhwy8
+
+5. Ucz się pythona grając w grę. :)
+https://checkio.org/
+
+6. 10 mitów na temat Pythona - a dokładniej na temat użycia tego języka w dużych projektach
+https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/
+
+7. Fajny cheatsheet do vima. 
+http://vim.rtorr.com/
+
+8. Na koniec #humorinformatykow - stare ale jare WAT 
+https://www.destroyallsoftware.com/talks/wat
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

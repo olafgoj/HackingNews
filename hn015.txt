@@ -1,0 +1,33 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Kilkanaście filmów wyjaśniających różne popularne bugi i exploity.
+https://www.youtube.com/playlist?list=PL96C35uN7xGLoAooGokQA75b-K0dabejH
+
+2. Konkurs Java na HackerRank, 9 marca - można się sprawdzić i przy okazji zgarnąć koszulkę.
+https://www.hackerrank.com/codewhiz-java-march-2016
+
+3. Ile czasu i energii jest potrzebne do złamania AES-256? Bardzo ciekawy post na reddicie.
+https://www.reddit.com/r/theydidthemath/comments/1x50xl/time_and_energy_required_to_bruteforce_a_aes256/
+
+4. Lista najczęściej używanych w security narzędzi. Oprócz tego na stronie znajdziecie ciekawe listy mailingowe, które warto przejrzeć (Security Lists po lewej).
+http://sectools.org/
+
+5. Jak postawić prosty serwer HTTP jednym poleceniem z pomocą Pythona? Ten i wiele innych konsolowych trików znajdziecie na poniższej stronie. :)
+http://www.commandlinefu.com/commands/browse/sort-by-votes
+
+6. Na koniec ciekawostka - link do profilu człowieka, który jest pierwszy w rankingu Stack Overflow. ( ͡° ͜ʖ ͡°) Jest specjalistą od C#, a na co dzień pracuje w Google jako programista Java. 
+https://stackoverflow.com/users/22656/jon-skeet
+
+7. Świetny artykuł od z3s, w którym 21 osób z branży odpowiada na pytanie "Jak zostać pentesterem?". Must-read jak ktoś planuje się rozwijać w tym kierunku.
+https://zaufanatrzeciastrona.pl/post/jak-zostac-pentesterem-odpowiada-21-polskich-fachowcow-z-branzy/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

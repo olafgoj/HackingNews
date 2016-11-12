@@ -1,0 +1,27 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Apple zatrudnia jednego z kluczowych programistów aplikacji Signal - wygląda na to, że chcą uczynić iOS jeszcze bardziej bezpiecznym.
+https://thehackernews.com/2016/02/most-secure-messaging-app.html
+
+2. Ciekawy post ukazujący podejście dwóch różnych grup programistów - początkujących i profesjonalistów.
+http://www.programmingforbeginnersbook.com/blog/friction_between_programming_professionals_and_beginners/
+
+3. Bardzo przydatna strona dla każdego kto programuje (lub chce programować) w pythonie. Zawiera mnóstwo porad (od konfiguracji środowiska, po opisy wielu bibliotek, porady odnośnie czystego kodu, itp.), linki do poradników, porady odnośnie czystego kodu i wiele więcej. Masa wiedzy do przyswojenia. :) 
+http://docs.python-guide.org/en/latest/
+
+4. Co każdy programista powinien wiedzieć o Unicode?
+http://www.joelonsoftware.com/articles/Unicode.html
+
+5. Socjotechnika w praktyce. Wystarczy tylko odpowiednio sformułować pytanie. 
+https://www.youtube.com/watch?v=Advj0Zlo5nQ
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

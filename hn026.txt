@@ -1,0 +1,41 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+—————————————————————————
+
+1. Od jakiegoś czasu powstawała darmowa książka o radare2 (również darmowym disassemblerze) i wygląda na to, że jest już ukończona. :)
+https://www.gitbook.com/book/radare/radare2book/details
+
+2. Ładna strona do nauki Linuksa. Zdecydowanie warto zajrzeć. 
+https://linuxjourney.com/
+
+3. Wpisujemy dowolny kod w C++ i jest on tłumaczony na asm. Dobre do nauki assembly.
+http://gcc.godbolt.org/
+
+4. 12 javascriptowych tricków.
+https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/
+
+5. Bash w mniej niż 20 minut - nietypowy kurs basha napisany w Node.JS.
+http://paulb.gd/learning-the-basics-of-bash-in-under-20-minutes/
+
+6. Ciekawe pytanie na Stack Overflow i równie ciekawa odpowiedź. :)
+https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array
+
+7. Nagrania prelekcji z tegorocznej edycji polskiej konferencji CONFidence.
+https://www.youtube.com/playlist?list=PLnKL6-WWWE_XbGxWfaCVSNFMV1dZwA8MI
+
+8. Prosty kalkulator napisany w assembly z łopatologicznymi komentarzami dla początkujących. Dobry sposób na załapanie podstaw. 
+https://github.com/flouthoc/calc.asm
+
+9. Strona dziewczyny, która codziennie przez 180 dni tworzyła małe projekty webowe. 
+https://jenniferdewalt.com/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Dzisiaj zamiast xkcd suchar z kategorii #humorinformatykow:
+Dlaczego nie ma Githuba po niemiecku?
+Bo wtedy pull request musiałby się nazywać "Zusammenführungsanforderung".
+

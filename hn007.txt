@@ -1,0 +1,35 @@
+#hackingnews
+
+Podoba się? Daj plusa na zachętę. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Pięć ciekawych przykładów rzadziej spotykanych błędów w aplikacjach www.
+https://zaufanatrzeciastrona.pl/post/piec-ciekawych-przykladow-rzadziej-spotykanych-bledow-w-aplikacjach-www/
+
+2. Lista z linkami do wideo z różnych prezentacji związanych z security. Podobno będzie na bieżąco aktualizowana, więc warto od czasu do czasu zaglądać po nowe rzeczy. :)
+https://github.com/PaulSec/awesome-sec-talks
+
+3. Darmowe narzędzia do reverse engineeringu.
+https://wiremask.eu/articles/free-reverse-engineering-tools/
+
+4. HackerRank - coś jak SPOJ, czyli strona z zadaniami programistycznymi do rozwiązania. 
+https://www.hackerrank.com
+
+5. 29 stycznia na HackerRank odbędą się zawody programistyczne. Pula $25.000, 300 osób wygrywa, 24h, 8 zadań. Można spróbować. :)
+https://www.hackerrank.com/worldcodesprint
+
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+#hackingnews
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Regexowa krzyżówka
+
+https://s3-us-west-1.amazonaws.com/gregable/puzzle.html
+
+2.   Interaktywny kurs SQL Injection
+
+http://www.codebashing.com/try-it
+
+3.    Darmowy e-book „Programistyczne potknięcia. Jak ich unikać?” autorstwa Gynvaela Coldwinda i j00ru.
+
+http://it.pwn.pl/Raporty/Jak-uniknac-bledow-w-programowaniu
+
+4. Kopalnia wiedzy nt. computer forensics, czyli informatyki śledczej.
+
+http://forensicswiki.org
+
+5. Tutorial z reverse engineering dla początkujących. Co prawda z 2006 roku, ale na pewno nadal można z niego wyciągnąć wiele przydatnej wiedzy.
+
+https://tuts4you.com/download.php?list.17
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:

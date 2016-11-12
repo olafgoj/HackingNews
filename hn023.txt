@@ -1,0 +1,41 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Nadal trwa Humble Book Bundle Hacking, na którym można kupić świetne książki o hackingu za bezcen.
+https://www.humblebundle.com/books/no-starch-hacking-books
+
+2. Poradnik dla początkujących odnośnie budowania bezpiecznego "laboratorium" do testowania malware'u.
+https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide
+
+3. Powstaje film fabularny o Snowdenie.
+https://www.youtube.com/watch?v=QlSAiI3xMh4
+
+4. Fajnie wytłumaczony atak Padding Oracle.
+http://sekurak.pl/czym-jest-padding-oracle-atak-i-ochrona/
+
+5. Hackowanie nowoczesnego TV.
+https://blog.avast.com/2015/11/11/the-anatomy-of-an-iot-hack/
+
+6. Baza danych ransomware.
+https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/edit#gid=0
+
+7. Developerzy na snapchacie.
+https://devsnap.herokuapp.com/
+
+8. Ktoś planuje uczyć się PHP? :)
+http://www.phptherightway.com/
+
+9. Środowisko do pentestingu na Windowsa.
+https://pentestbox.com/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

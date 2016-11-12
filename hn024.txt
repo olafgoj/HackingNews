@@ -1,0 +1,41 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Ma ktoś ochotę pohackować? Zadania są w menu po lewej (Training Missions). :)
+http://www.enigmagroup.org/
+
+2. Kolejna strona, na której można sobie coś legalnie popsuć. 
+https://ringzer0team.com/
+
+3. Krótki wywód na temat tego, dlaczego katalogi z plikami wykonywalnymi w systemach unixowych są tak pogmatwane.
+http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+
+4. Przewodnik od Fundacji Panoptykon, dot. narzędzi, za których pomocą państwo kontroluje Polaków. Warto przeczytać.
+https://panoptykon.org/zabawki-wielkiego-brata
+
+5. Platforma do tworzenia CTF prosto od Facebooka.
+https://www.facebook.com/notes/facebook-ctf/facebook-ctf-is-now-open-source/525464774322241
+
+6. Interaktywny tutorial gita.
+https://try.github.io/
+
+7. Diceware - fajny generator łatwych do zapamiętania haseł (które możecie kojarzyć z xkcd) o dużej entropii.
+http://www.rempe.us/diceware
+
+8. Sprawdź czy twój e-mail/login gdzieś wyciekł.
+https://haveibeenpwned.com/
+
+9. Na koniec #humorinformatykow
+http://rymden.nu/exceptions.html
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+https://imgs.xkcd.com/comics/digital_data.png

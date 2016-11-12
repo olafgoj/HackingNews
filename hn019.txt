@@ -1,0 +1,35 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Screenshoty z niezabezpieczonych serwerów VNC. :)
+http://vncroulette.com
+
+2. Praktyczne zadania z kryptografii.
+http://cryptopals.com/
+
+3. Jedna z najbardziej popularnych stron typu hackme.
+https://www.hackthissite.org
+
+4. Lista książek dot. cyberbezpieczeństwa.
+https://www.paloaltonetworks.com/threat-research/cybercanon
+
+5. Wywiad z Marcinem Kleczyńskim - założycielem Malwarebytes.
+http://lifehacker.com/im-marcin-kleczynski-and-this-is-the-story-behind-malw-1766148437
+
+6. Złośliwy kod ukryty w PNG.
+https://securelist.com/blog/virus-watch/74297/png-embedded-malicious-payload-hidden-in-a-png-file/
+
+7. Warto zajrzeć jeśli planuje się napisać swój własny system operacyjny. :)
+http://wiki.osdev.org/Expanded_Main_Page
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

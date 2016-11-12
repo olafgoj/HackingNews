@@ -1,0 +1,30 @@
+#hackingnews
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Adam z zaufanatrzeciastrona dokładnie opisuje jak dba o swoje bezpieczeństwo i prywatność w sieci. Bardzo ciekawa lektura.
+https://zaufanatrzeciastrona.pl/post/spowiedz-bezpieczenstwa-czyli-jak-swoje-dane-zabezpiecza-redaktor-z3s/
+https://zaufanatrzeciastrona.pl/post/spowiedzi-bezpieczenstwa-ciag-dalszy-odpowiedzi-na-wasze-pytania/
+
+2. Co nieco na temat korzystania z VPN. 
+https://www.goldenfrog.com/blog/myths-about-vpn-logging-and-anonymity
+
+3. Strona generująca gotowy plik .gitignore na podstawie narzędzi i technologii, z których korzystamy.
+https://www.gitignore.io/
+
+4. Skróty klawiaturowe basha, które baaardzo przyspieszają pracę z terminalem. Sprawdzone i potwierdzone LENNYFACE. Must-read dla każdego kto często używa konsoli.
+http://ss64.com/bash/syntax-keyboard.html
+
+5. Na koniec coś bardziej luźnego. 31 gier i różnego rodzaju łamigłówek dla programistów. :)
+http://ipestov.com/31-coders-games-and-puzzle-sites/
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+
+

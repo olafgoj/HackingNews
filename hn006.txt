@@ -1,0 +1,34 @@
+#hackingnews
+
+Podoba się? Daj plusa na zachętę. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+1. W lutym odbywa się hack.summit() - 3-dniowa wirtualna konferencja dla programistów + hackathon z pulą nagród $150.000. Jest płatna, ale z kodem PLURALSIGHT można zarejestrować się zupełnie za darmo.
+https://hacksummit.org/
+
+2. Poradnik dla osób chcących wejść w świat security i hackingu. Ogromny zbiór linków podzielony na kroki wraz z opisem do czego konkretna umiejętność może się przydać.
+http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
+
+3. Zestawienie konferencji nt. bezpieczeństwa wraz z linkami do materiałów na YT.
+https://www.tunnelsup.com/online-security-conferences/
+
+4. Jak ktoś zaczyna przygodę z Java, to warto zajrzeć na tę stronę - znajdują się tutaj zarówno kursy jak i pojedyncze artykuły na różne tematy związane z Java i nie tylko.
+http://kobietydokodu.pl/kurs-javy/
+
+5. Kolejna gra typu wargame, podobna do opisywanej już przez mnie overthewire. W skrócie dostajemy dostęp do ssh i łamiemy zabezpieczenia postawionego tam środowiska. 
+http://smashthestack.org/index.html
+
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+
+
+
+
+
+
+

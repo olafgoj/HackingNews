@@ -1,0 +1,29 @@
+#hackingnews
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+Mnóstwo zadań typu ReverseMe (czyli w postaci plików, które należy przeanalizować i znaleźć rozwiązanie). Strona stara jak świat, ale nadal pojawiają się nowe zadania. :) 
+http://crackmes.de
+
+Kolejna strona dla osób chcących poćwiczyć RE. Tym razem do ściągnięcia jest paczka .zip z zadaniami i potrzebnym oprogramowaniem (IDA Pro).  
+http://www.binary-auditing.com
+
+Notatki wykładowcy z Uniwersytetu Technologicznego Nanyang w Singapurze, które służą mu do nauki programowania. Głównie #java, ale jest też trochę innych zagadnień, np. bazy danych czy C++. 
+https://www3.ntu.edu.sg/home/ehchua/programming/index.html
+
+Newsy, poradniki, artykuły, wszystko oczywiście związane z programowaniem, a jakże inaczej. :) 
+https://dzone.com
+
+Damn Vulnerable Linux - dystrybucja Linuksa stworzona po to, aby ją exploitować. Zawiera stare (a co za tym idzie dziurawe) wersje różnych softów oraz wiele zadań (np. z RE) do wykonania. Polecam! 
+http://www.computersecuritystudent.com/SECURITY_TOOLS/DVL/lesson1/
+
+Krzyżówki regexowe o rosnącym poziomie trudności. Fajna alternatywa dla standardowej nauki wyrażeń regularnych. (strona znaleziona dzięki @JakisTakiNick) 
+https://regexcrossword.com
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

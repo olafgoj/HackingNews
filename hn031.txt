@@ -1,0 +1,31 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+—————————————————————————
+
+1. Nowości w nadchodzącej, czyli 9. wersji języka Java.
+https://www.sitepoint.com/ultimate-guide-to-java-9
+
+2. Wywiad z j00ru, którego każdy kto choć trochę interesuje się cybersec powinien *co najmniej* kojarzyć. 
+https://blog.avatao.com/Interview-Mateusz-Jurczyk
+
+3. Poradnik dla początkujących webdevów. Dostępna jest również wersja PDF.
+https://www.codeschool.com/beginners-guide-to-web-development
+http://courseware.codeschool.com/beginners_guide/CodeSchool-BeginnersGuideToWebDevelopment.pdf
+
+4. Bardzo przydatna strona dla każdego kto programuje (lub chce programować) w Pythonie. Zawiera mnóstwo porad (od konfiguracji środowiska, po opisy wielu bibliotek, porady odnośnie czystego kodu, itp.), linki do poradników i wiele więcej. Masa wiedzy do przyswojenia. 
+http://docs.python-guide.org/en/latest/
+
+5. Jak działa TOR?
+https://sekurak.pl/jak-dziala-tor-lagodne-wprowadzenie/
+
+6. Błędy w Pythonie, czyli m.in. o tym, że 999+1 != 1000 
+https://access.redhat.com/blogs/766093/posts/2592591?
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

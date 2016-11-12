@@ -1,0 +1,32 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+1. Bash w mniej niż 20 minut - nietypowy kurs basha napisany w Node.JS
+http://paulb.gd/learning-the-basics-of-bash-in-under-20-minutes/
+
+2. Dowód na to, że rząd USA w 2014 roku wynajął specjalistów z uniwersytetu Carnegie Mellon w celu złamania Tora.
+http://arstechnica.com/tech-policy/2016/02/judge-confirms-what-many-suspected-feds-hired-cmu-to-break-tor/
+
+3. Co powinien wiedzieć każdy student informatyki? 
+http://matt.might.net/articles/what-cs-majors-should-know/
+
+4. Ciekawa strona poświęcona algorytmom i strukturom danych.
+http://www.ideserve.co.in/
+
+5. Jak bezpiecznie przechowywać hasła w 2016 roku? Przykładowy kod m.in. w Java, PHP czy Pythonie.
+https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
+
+6. Kurs Angulara powstały we współpracy z Google.
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro
+
+7. Protokół SSL opisany w przystępny sposób.
+https://www.digicert.com/ssl-cryptography.htm
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

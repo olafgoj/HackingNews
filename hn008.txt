@@ -1,0 +1,34 @@
+#hackingnews
+
+Podoba się? Daj plusa na zachętę. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+1. Całkowicie darmowy ebook o reverse engineering dla początkujących. Prawie 1000 stron (sic!) lub wersja skrócona ~150 stron. Drugi link to strona z zadaniami.
+http://beginners.re
+http://challenges.re
+
+2. Ciekawostka historyczna. LENNYFACE Szczególnie warto zajrzeć do p0werfaq.zip. Kultowy poradnik z 1997r., którego współautorem jest lcamtuf, jeden z najlepszych polskich hackerów
+http://zanio.fm.interiowo.pl/1024x768/hack.htm
+
+3. Szykuje się super inicjatywa i możliwość aby podszkolić się z tematyki security, do tego prawdopodobnie darmowa dla studentów i uczniów.
+http://blog.whitecatsec.com/2016/01/zapowiedz-hackathon-gry-wojenne-2016.html
+
+4. Kultowy poradnik Smashing The Stack został „odnowiony”.
+https://avicoder.me/2016/02/01/smashsatck-revived/
+
+5. Na stronie do pobrania są maszyny wirtualne, na których wykonuje się zadania związane z szeroko pojętym hackingiem i security. 
+https://exploit-exercises.com/
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+
+
+
+
+
+
+

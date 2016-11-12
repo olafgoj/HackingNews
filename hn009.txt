@@ -1,0 +1,28 @@
+#hackingnews
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Jak zostać pentesterem?
+https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
+
+2. Archive.org uruchomiło wirtualne muzeum malware'u, w którym można odpalić wirusy z DOSa. 
+https://archive.org/details/malwaremuseum
+
+3. Kurs security i hackingu.
+http://academy.ehacking.net/courses/cyber-security-training-hacking-course
+
+4. Naucz się języka X w Y minut, czyli różne języki programowania przedstawione w pigułce, tak aby móc sobie szybko przyswoić składnię. Niestety nie ma ArnoldC. :(
+https://learnxinyminutes.com/
+
+5. Uczysz się programowania i nie masz pomysłu co napisać?
+http://rosettacode.org/wiki/Category:Programming_Tasks
+
+—————————————————————————
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:

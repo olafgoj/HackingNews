@@ -1,0 +1,31 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Kurs pisania shellcode pod Windowsa. Można się z niego dowiedzieć co nieco o assembly, PEB, formacie PE i innych zagadnieniach.
+http://securitycafe.ro/
+
+2. Wyjaśnienie zasad SOLID na życiowych przykładach.
+http://www.daedtech.com/solid-principles-real-life/
+
+3. Zagadnienia z zakresu security zaprezentowane w formie drzewa. Warto zajrzeć żeby zobaczyć jak bardzo rozległa jest to dziedzina.
+https://red5d.github.io/security-topics-tree/
+
+4. Nowa podatność w OpenSSL - DROWN.
+http://sekurak.pl/drown-nowa-podatnosc-w-openssl-mozna-deszyfrowac-tls-przy-pewnych-warunkach/
+https://drownattack.com/
+
+5. Fajny zbiór pytań rekrutacyjnych z Javy. Co tydzień dochodzi nowe pytanie.
+http://kobietydokodu.pl/pytania-treningowe/
+
+6. Kurs programowania w assembly od mirka @MrOsamaful - jak komuś umknęło, to warto zerknąć okiem. :)
+http://zostanprogramista.blogspot.com/p/kurs-programowa.html
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

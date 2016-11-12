@@ -1,0 +1,39 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+https://www.facebook.com/HackingNewsPL
+
+—————————————————————————
+
+1. Jest już stabilna wersja przeglądarki Vivaldi, warto przetestować.
+http://arstechnica.com/information-technology/2016/04/vivaldi-browser-version-1-0-released/
+
+2. Lista wszystkich blogów (i postów) stworzonych w ramach konkursu programistycznego "Daj się poznać". Warto zajrzeć i dowiedzieć się czegoś nowego. 
+http://dotnetblogs.pl/dajsiepoznac/
+
+3. VPN na rok za parę złotych lub dożywotnio za ~70zł.
+https://stacksocial.com/sales/pay-what-you-want-vpn-lifetime-bundle?aid=a-vf4t3zgw
+
+4. Krótki i treściwy tutorial języka awk od unknowa. Tak, #bylo, ale może jest ktoś kto nie zauważył. :)
+https://www.youtube.com/watch?v=u0wSncMHAyM
+
+5. Android Studio w stabilnej wersji 2.0.
+http://android-developers.blogspot.com/2016/04/android-studio-2-0.html
+
+6. Świetne zestawienie linków (z podziałem na stopień zaawansowania) do różnych artykułów/tutoriali dot. vima. Już teraz nie ma vimówki (hehe) że vim jest trudny - macie mnóstwo materiałów do nauki.
+https://www.reddit.com/r/vim/comments/4dlacf/vim_essentials_articles_videos_ressources/
+
+7. Różne tematy związane z programowaniem, wyjaśnione w przystępny sposób.
+http://betterexplained.com/cheatsheet/#programming-tools
+
+
+8. Aktualizujcie Flasha. Albo lepiej zastanówcie się czy w ogóle go jeszcze potrzebujecie.
+http://arstechnica.com/security/2016/04/adobe-flash-update-ransomware-windows-10/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

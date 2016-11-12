@@ -1,0 +1,48 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Trochę mnie nie było, mam nadzieję że wybaczycie. :<
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Na początek ciekawy wywiad z @maniserowicz o branży programistycznej.
+https://blog.lepszapraca.pl/2016/07/maciej-aniserowicz-devstyle-pl-potrzebujemy-wiecej-programistow-dzis-kod-konieczny-dzialania-swiata
+
+2. 19 darmowych ebooków o Pythonie.
+https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8#.vbtdwj123
+
+3. Kiedy używać danego paradygmatu programowania?
+http://c2.com/cgi/wiki?WhenToUseWhatParadigm
+
+4. Jak bronić się przed skutkami zmian w ustawie hazardowej? Temat może już nienajświeższy, ale jak ktoś przegapił to warto przeczytać:
+https://zaufanatrzeciastrona.pl/post/wiemy-jak-rzad-ocenzuruje-internet-i-wiemy-jak-sie-przed-tym-bronic/
+
+5. Dobre praktyki dla juniorów.
+http://kobietydokodu.pl/niezbednik-juniora-dobre-praktyki-dla-poczatkujacego-programisty/
+
+6. Co to znaczy, że język jest turing complete?
+https://www.youtube.com/watch?v=RPQD7-AOjMI
+
+7. Co powinien wiedzieć początkujący programista Django?
+https://pragmaticstartup.wordpress.com/2012/08/25/what-every-new-pythondjango-web-developer-should-know-in-3-months/
+
+8. Matematyka dla gamedevów:
+https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
+
+9. Gra programistyczna, w której dostajemy funkcję i mamy podać takiego argumenty, aby zostało zwrócone true. 
+https://alf.nu/ReturnTrue
+
+10. Kryptografia w praktyce by @Gynvael
+http://gynvael.coldwind.pl/?id=623
+
+https://image-store.slidesharecdn.com/e466fbef-8157-4a0e-bee6-6ca23df3ff62-original.png
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

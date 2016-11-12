@@ -1,0 +1,34 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Ostatnio głośno jest o awarii pewnej firmy hostingowej. Sprawa się rozjaśniła za sprawą wywiadu z CEO, poniżej link do streszczenia z technicznymi komentarzami oraz do samej rozmowy. Warto przeczytać, żeby wiedzieć czego nie należy robić. 
+https://zaufanatrzeciastrona.pl/post/jak-nie-prowadzic-firmy-hostingowej-studium-przypadku/
+http://hostingnews.pl/wywiad-bartek-juszczyk-adweb/
+
+2. Fajny kanał na YT z filmami o komputerach. Znajdziecie tam np. omówienie ataku buffer overflow w przystępny sposób.
+https://www.youtube.com/watch?v=1S0aBV-Waeo
+
+3. Nietypowy tutorial Javy.
+https://www.youtube.com/playlist?list=PL4x48ZxOWZBT-PotFD57rM40daTSLgYU9
+
+4. Strona o ciekawej nazwie, zawierająca linki do mnóstwa tutoriali oraz darmowych książek dla różnych języków programowania.
+http://programming-motherfucker.com/
+
+5. Analiza działania i modyfikacja programu bez kodu źródłowego. 
+http://szymonsiarkiewicz.pl/artykuly/relog/analiza-i-modyfikacja-programu-bez-kodu-zrodlowego/
+
+6. Microsoft SQL Server na Linuksa!
+http://arstechnica.com/information-technology/2016/03/sql-server-for-linux-coming-in-mid-2017/
+
+7. Dokładna analiza głośnego ransomware na komputery z systemem OS X. 
+http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

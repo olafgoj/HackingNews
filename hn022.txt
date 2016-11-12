@@ -1,0 +1,42 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+O co chodzi? - http://pokazywarka.pl/hackingnews/
+
+—————————————————————————
+
+1. Świetne zestawienie linków (z podziałem na stopień zaawansowania) do różnych artykułów/tutoriali dot. vima.
+https://www.reddit.com/r/vim/comments/4dlacf/vim_essentials_articles_videos_ressources/
+
+2. Różne tematy związane z programowaniem, wyjaśnione w przystępny sposób. 
+http://betterexplained.com/cheatsheet/#programming-tools
+
+3. Ranking popularności języków programowania na GitHub.
+http://githut.info/
+
+4. Ostatnio w ramach podcastu DevTalk, ukazał się wywiad z @gynvael.
+http://www.maciejaniserowicz.com/2016/04/18/devtalk33-o-programowaniu-z-gynvaelem-coldwindem/
+
+5. Zadania z bezpieczeństwa stworzone przez użytkownika Reddita.
+https://www.reddit.com/r/securityCTF/comments/4e14dr/hackme_challenges_hackthissite_style_vibe/
+
+6. Techniczne porównanie 3 popularnych komunikatorów z szyfrowaniem rozmów.
+https://blog.fortinet.com/post/whatsapp-vs-telegram
+
+7. Uważajcie na chomikuj. :)
+https://zaufanatrzeciastrona.pl/post/ponad-260-000-plikow-exe-w-serwisie-chomikuj-pl-zainfekowanych-koniem-trojanskim/
+
+8. Obszerny artykuł o ostatnim hicie wśród cyberprzestępców - ransomware.
+http://blog.talosintel.com/2016/04/ransomware.html
+
+9. Nowy odcinek podcastu "Cyber, Cyber...", a w nim o (B|S)adlock i aferze Panama Papers.
+https://www.cybsecurity.org/cyber-cyber-13-badlocksadlock-i-panama-papers/
+
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Randomowy xkcd na dziś:
+

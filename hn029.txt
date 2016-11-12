@@ -1,0 +1,36 @@
+#hackingnews - ciekawe linki związane z programowaniem, security i szeroko pojętym hackingiem
+
+Powoli zbliżamy się do 1.5k ludzi obserwujących tag. Dziękuję wszystkim, którzy się do tego przyczynili. ʕ•ᴥ•ʔ
+
+https://www.facebook.com/HackingNewsPL
+
+Podoba się? Obserwuj tag i daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
+
+—————————————————————————
+
+1. Czy vim jest lepszy od emacsa? ;>
+http://en.arguman.org/vim-is-better-than-emacs
+
+2. Można poćwiczyć XSS. :}
+https://xss-game.appspot.com/
+
+3. Quiz sprawdzający umiejętność rozpoznawania phishingu. Pochwalcie się wynikiem w komentarzach. :)
+https://quiz.securityinside.pl/quiz/check
+
+4. 8 narzędzi, które programista może poznać w jeden weekend.
+https://www.sitepoint.com/8-essential-skills-developers-can-learn-in-a-weekend/
+
+5. Dystrybucje Linuksa na jednym obrazku. Trochę tego jest. 
+https://imgur.com/a/gbMci
+
+6. Jak działa asynchroniczność w JavaScript?
+http://foreverframe.pl/how-does-async-work-in-javascript/
+
+7. Opis wzorców projektowych dla Javy.
+http://java-design-patterns.com/patterns/
+
+#programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
+
+Na koniec nieśmieszny obrazek linuksowych narzędzi do monitorowania wydajności:
+
+
