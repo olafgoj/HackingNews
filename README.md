@@ -1,9 +1,21 @@
-O co chodzi w #hackingnews?
+
+![HackingNews logo](https://i.imgur.com/LRn1hHA.png)
+
+## **HackingNews** ##
+O co chodzi w HackingNews?
 
 W skrócie: wrzucam linki do ciekawych stron, które napotkam na swojej drodze. :)
 
-Tematyka: programowanie, security, reverse engineering, linux i wszystko inne co związane z szeroko pojętym hackingiem.
+Tematyka: 
 
-Fanpage: https://www.facebook.com/HackingNewsPL
+ - programowanie
+ - reverse engineering
+ - linux
+ - i wszystko inne co związane z szeroko pojętym hackingiem
 
-Wykop: http://www.wykop.pl/tag/hackingnews
+
+----------
+
+
+**Fanpage**: https://www.facebook.com/HackingNewsPL
+**Wykop**: http://www.wykop.pl/tag/hackingnews
