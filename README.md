@@ -18,4 +18,5 @@ Tematyka:
 
 
 **Fanpage**: https://www.facebook.com/HackingNewsPL
+
 **Wykop**: http://www.wykop.pl/tag/hackingnews
