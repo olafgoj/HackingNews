@@ -6,7 +6,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Analiza haseł, które wyciekły ostatnio z LinkedIn.
 https://blog.korelogic.com/blog/2016/05/19/linkedin_passwords_2016

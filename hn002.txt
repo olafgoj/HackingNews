@@ -10,13 +10,11 @@ Mapa ukazująca aktualnie trwające ataki DDoS.
 
 http://map.norsecorp.com
 
-——————————————————
 
 Coś dla użytkowników Linuksa / OS X. Oh My ZSH, czyli zestaw pluginów, funkcji, skryptów i motywów do powłoki zsh. Wszystko instaluje się samo i już po chwili mamy terminal like a boss. Polecam. :)
 
 http://ohmyz.sh
 
-——————————————————
 
 Strona z zadaniami typu hackme.
 
@@ -30,13 +28,11 @@ Strona z zadaniami z Javy (choć większość z nich można też zrobić w innym
 
 http://programmingbydoing.com
 
-——————————————————
 
 Nauka wyrażeń regularnych za pomocą programu regetron. Fajny kurs, z zadaniami na koniec każdej lekcji.
 
 http://regex.learncodethehardway.org/book/
 
-——————————————————
 
 Kurs pisania gier w Pythonie od Raspberry Pi.
 
@@ -50,14 +46,12 @@ Triki utrudniające reverse engineering aplikacji.
 
 http://textfiles.com/programming/antidbg.txt
 
-——————————————————
 
 Write-upy (czyli rozwiązania wraz z opisem) zadań z DefCamp CTF przygotowane przez polski team P4.
 
 
 https://github.com/p4-team/ctf/tree/master/2015-10-02-dctf
 
-——————————————————
 
 Ogromna baza write-upów, tym razem nie z konkretnego, a z różnych CTFów z bieżącego roku. Na dole są też linki do poprzednich lat oraz mała podróż do przyszłości (link do roku 2016).  
 

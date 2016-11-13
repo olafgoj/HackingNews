@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Mechanizm wymiany klucza prywatnego (używany np. w SSL) wyjaśniony w taki sposób, że zrozumie to nawet dziecko.
 https://www.youtube.com/watch?v=U62S8SchxX4

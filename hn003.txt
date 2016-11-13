@@ -2,7 +2,6 @@
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Regexowa krzyżówka
 

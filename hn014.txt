@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Kurs pisania shellcode pod Windowsa. Można się z niego dowiedzieć co nieco o assembly, PEB, formacie PE i innych zagadnieniach.
 http://securitycafe.ro/

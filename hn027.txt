@@ -6,7 +6,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Policzcie sobie na windowsowym kalkulatorze sqrt(4)-2. :)
 https://blogs.msdn.microsoft.com/oldnewthing/20160628-00/?p=93765
