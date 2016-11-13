@@ -6,7 +6,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Hashcat jest teraz open-source.
 http://fossbytes.com/worlds-fastest-password-cracking-tool-is-now-open-source/

@@ -2,7 +2,6 @@
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 Mnóstwo zadań typu ReverseMe (czyli w postaci plików, które należy przeanalizować i znaleźć rozwiązanie). Strona stara jak świat, ale nadal pojawiają się nowe zadania. :) 
 http://crackmes.de

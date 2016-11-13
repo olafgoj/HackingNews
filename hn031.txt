@@ -4,7 +4,6 @@ https://www.facebook.com/HackingNewsPL
 
 Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
-—————————————————————————
 
 1. Nowości w nadchodzącej, czyli 9. wersji języka Java.
 https://www.sitepoint.com/ultimate-guide-to-java-9

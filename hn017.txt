@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Strona w stylu SPOJ, Euler, itd., czyli mamy do rozwiązania problemy programistyczne.
 https://leetcode.com/

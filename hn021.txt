@@ -6,7 +6,6 @@ O co chodzi? - http://pokazywarka.pl/hackingnews/
 
 https://www.facebook.com/HackingNewsPL
 
-—————————————————————————
 
 1. Jest już stabilna wersja przeglądarki Vivaldi, warto przetestować.
 http://arstechnica.com/information-technology/2016/04/vivaldi-browser-version-1-0-released/

@@ -6,7 +6,6 @@ https://www.facebook.com/HackingNewsPL
 
 Podoba się? Obserwuj tag i daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
-—————————————————————————
 
 1. Czy vim jest lepszy od emacsa? ;>
 http://en.arguman.org/vim-is-better-than-emacs

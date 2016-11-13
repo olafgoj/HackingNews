@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 1. W lutym odbywa się hack.summit() - 3-dniowa wirtualna konferencja dla programistów + hackathon z pulą nagród $150.000. Jest płatna, ale z kodem PLURALSIGHT można zarejestrować się zupełnie za darmo.
 https://hacksummit.org/
 

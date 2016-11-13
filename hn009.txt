@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Jak zostać pentesterem?
 https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
@@ -21,7 +20,6 @@ https://learnxinyminutes.com/
 5. Uczysz się programowania i nie masz pomysłu co napisać?
 http://rosettacode.org/wiki/Category:Programming_Tasks
 
-—————————————————————————
 
 #programowanie #naukaprogramowania #hacking #security #bezpieczenstwo #reverseengineering
 

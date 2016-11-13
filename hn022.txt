@@ -6,7 +6,6 @@ Podoba się? Daj plusa na zachętę, żebym wiedział, że ktoś to czyta. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 
 1. Świetne zestawienie linków (z podziałem na stopień zaawansowania) do różnych artykułów/tutoriali dot. vima.
 https://www.reddit.com/r/vim/comments/4dlacf/vim_essentials_articles_videos_ressources/

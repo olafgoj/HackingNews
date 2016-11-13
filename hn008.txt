@@ -4,7 +4,6 @@ Podoba się? Daj plusa na zachętę. :)
 
 O co chodzi? - http://pokazywarka.pl/hackingnews/
 
-—————————————————————————
 1. Całkowicie darmowy ebook o reverse engineering dla początkujących. Prawie 1000 stron (sic!) lub wersja skrócona ~150 stron. Drugi link to strona z zadaniami.
 http://beginners.re
 http://challenges.re
